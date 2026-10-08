@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<curriculum xmlns:deb="http://www.danieleduardobecerra.com">
+<deb:curriculum xmlns:deb="http://www.danieleduardobecerra.com/curriculum">
 
     <deb:datos_personales>
         <deb:nombre>Daniel Eduardo</deb:nombre>
@@ -40,7 +40,7 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 
-<curriculum xmlns:deb="http://www.danieleduardobecerra.com">
+<deb:curriculum xmlns:deb="http://www.danieleduardobecerra.com/curriculum">
 
     <deb:datos_personales>
         <deb:nombre>Daniel Eduardo</deb:nombre>
