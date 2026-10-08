@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+    <datos_personales>
+        <nombre>Daniel Eduardo</nombre>
+        <apellidos>Becerra Gelves</apellidos>
+        <email>daniedu093@gmail.com</email>
+    </datos_personales>
+
+    <experiencia_profesional>
+    </experiencia_profesional>
+
+    <formacion>
+        <formacion_academica>
+            <centro>CeacFp</centro>
+            <titulacion>Administracion en Sistemas de Redes en la Informática</titulacion>
+            <inicio>2026</inicio>
+            <final>en curso</final>
+        </formacion_academica>
+    </formacion>
+
+    <idiomas>
+        <idioma>
+            <nombre>Español</nombre>
+            <nivel>Nativo</nivel>
+        </idioma>
+        <idioma>
+            <nombre>Inglés</nombre>
+            <nivel>Básico</nivel>
+        </idioma>
+    </idiomas>
+
+    <hobbies>
+        <hobby>Informática</hobby>
+        <hobby>Videojuegos</hobby>
+        <hobby>Jugar Futbol</hobby>
+        <hobby>Ir al Gym</hobby>
+    </hobbies>
+</curriculum>
