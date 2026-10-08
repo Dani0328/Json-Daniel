@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<curriculum xmlns:deb="http://www.danieleduardobecerra.com">
+
+    <deb:datos_personales>
+        <deb:nombre>Daniel Eduardo</deb:nombre>
+        <deb:apellidos>Becerra Gelves</deb:apellidos>
+        <deb:email>daniedu093@gmail.com</deb:email>
+    </deb:datos_personales>
+
+    <deb:experiencia_profesional>
+    </deb:experiencia_profesional>
+
+    <deb:formacion>
+        <deb:formacion_academica>
+            <deb:centro>CeacFp</deb:centro>
+            <deb:titulacion>Administracion en Sistemas de Redes en la Informática</deb:titulacion>
+            <deb:inicio>2026</deb:inicio>
+            <deb:final>en curso</deb:final>
+        </deb:formacion_academica>
+    </deb:formacion>
+
+    <deb:idiomas>
+        <deb:idioma>
+            <deb:nombre>Español</deb:nombre>
+            <deb:nivel>Nativo</deb:nivel>
+        </deb:idioma>
+        <deb:idioma>
+            <deb:nombre>Inglés</deb:nombre>
+            <deb:nivel>Básico</deb:nivel>
+        </deb:idioma>
+    </deb:idiomas>
+
+    <deb:hobbies>
+        <deb:hobby>Informática</deb:hobby>
+        <deb:hobby>Videojuegos</deb:hobby>
+        <deb:hobby>Jugar Futbol</deb:hobby>
+        <deb:hobby>Ir al Gym</deb:hobby>
+    </deb:hobbies>
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<curriculum xmlns:deb="http://www.danieleduardobecerra.com">
+
+    <deb:datos_personales>
+        <deb:nombre>Daniel Eduardo</deb:nombre>
+        <deb:apellidos>Becerra Gelves</deb:apellidos>
+        <deb:email>daniedu093@gmail.com</deb:email>
+    </deb:datos_personales>
+
+    <deb:experiencia_profesional>
+    </deb:experiencia_profesional>
+
+    <deb:formacion>
+        <deb:formacion_academica>
+            <deb:centro>CeacFp</deb:centro>
+            <deb:titulacion>Administracion en Sistemas de Redes en la Informática</deb:titulacion>
+            <deb:inicio>2026</deb:inicio>
+            <deb:final>en curso</deb:final>
+        </deb:formacion_academica>
+    </deb:formacion>
+
+    <deb:idiomas>
+        <deb:idioma>
+            <deb:nombre>Español</deb:nombre>
+            <deb:nivel>Nativo</deb:nivel>
+        </deb:idioma>
+        <deb:idioma>
+            <deb:nombre>Inglés</deb:nombre>
+            <deb:nivel>Básico</deb:nivel>
+        </deb:idioma>
+    </deb:idiomas>
+
+    <deb:hobbies>
+        <deb:hobby>Informática</deb:hobby>
+        <deb:hobby>Videojuegos</deb:hobby>
+        <deb:hobby>Jugar Futbol</deb:hobby>
+        <deb:hobby>Ir al Gym</deb:hobby>
+    </deb:hobbies>
+
+</deb:curriculum>
